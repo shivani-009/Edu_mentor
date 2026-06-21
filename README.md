@@ -2,6 +2,7 @@
 
 **Edu Mentor** is an educational platform that connects students with mentors, helping students enhance learning while mentors provide guidance and support.
 
+
 ## 🌟 Key Features
 
 - Browse and search for mentors by subject or topic  
